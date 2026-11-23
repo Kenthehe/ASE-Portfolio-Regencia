@@ -1,7 +1,7 @@
 # ASE Portfolio — Regencia, Kent Johnfrey
 
 ## Course Introduction
-**Course:** CPELX230-330 — Computer Engineering Elective (Term 2, 2026–2027)  
+**Course:** CPELX330 — Computer Engineering Elective (Term 2, 2026–2027)  
 **Institution:** National University — College of Engineering  
 
 This repository serves as my individual portfolio for **Agentic Software Engineering and Responsible AI**. Throughout this course, I will explore how autonomous AI agents are designed, integrated into modern software architectures, and governed using Agile workflows, version control best practices, and structured risk management frameworks.
